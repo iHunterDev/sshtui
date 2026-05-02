@@ -1,0 +1,8 @@
+/sshtui
+*.exe
+*.test
+*.out
+coverage.txt
+dist/
+build/
+.DS_Store
